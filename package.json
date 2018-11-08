@@ -2,7 +2,7 @@
   "name": "demo-app1",
   "version": "1.0.0",
   "description": "Demo app to show React + Redux skills",
-  "homepage": "https://jaredchurchman.com/stackline-assessment",
+  "homepage": "http://jaredchurchman.com/stackline-assessment/",
   "main": "index.js",
   "repository": "git@github.com:jchurchman100/stackline-assessment.git",
   "scripts": {
