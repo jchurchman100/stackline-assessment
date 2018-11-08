@@ -1,0 +1,19 @@
+.detail, .sales-chart, .sales-table{
+    box-shadow: 0 0 5px #888;
+    margin: 5px;
+}
+.btn{
+    margin: 5px;
+}
+.info{
+    text-align: center;
+}
+.container-fluid{
+    margin: 40px;
+}
+img, svg, table{
+    width: 100%;
+}
+.list-group{
+    padding-right: 0;
+}
